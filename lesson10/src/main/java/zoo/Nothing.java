@@ -1,0 +1,5 @@
+package zoo;
+
+interface Nothing {
+	
+}
